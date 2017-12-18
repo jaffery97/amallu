@@ -174,11 +174,11 @@
   }
 
   .cb-slideshow li:nth-child(1) span {
-      background-image: url("https://cdn.pixabay.com/photo/2017/11/13/08/34/horse-2944967_640.jpg");
+      background-image: url("img/american-football-63109_1920.jpg");
   }
 
   .cb-slideshow li:nth-child(2) span {
-      background-image: url("http://files.pressherald.com/uploads/2014/11/524177-20141114_Football003-e1416018303686.jpg");
+      background-image: url("img/basketball-1625318_1920.jpg");
       -webkit-animation-delay: 6s;
       -moz-animation-delay: 6s;
       -o-animation-delay: 6s;
@@ -187,7 +187,7 @@
   }
 
   .cb-slideshow li:nth-child(3) span {
-      background-image: url("https://cdn.pixabay.com/photo/2013/03/21/15/52/basketball-95607_960_720.jpg");
+      background-image: url("img/basketball-557192_1920.jpg");
       -webkit-animation-delay: 12s;
       -moz-animation-delay: 12s;
       -o-animation-delay: 12s;
@@ -196,7 +196,7 @@
   }
 
   .cb-slideshow li:nth-child(4) span {
-      background-image: url("https://d23po1evgrykdu.cloudfront.net/cache/78/55/7855f0ea09e8fbf7e5b6bbfeab3c0da4.jpg");
+      background-image: url("img/football-557565_1920.jpg");
       -webkit-animation-delay: 18s;
       -moz-animation-delay: 18s;
       -o-animation-delay: 18s;
@@ -205,7 +205,7 @@
   }
 
   .cb-slideshow li:nth-child(5) span {
-      background-image: url(https://cdn.pixabay.com/photo/2014/12/04/21/46/basketball-557192_640.jpg");
+      background-image: url(img/baseball-field-1149153_1920.jpg);
       -webkit-animation-delay: 24s;
       -moz-animation-delay: 24s;
       -o-animation-delay: 24s;
@@ -214,7 +214,7 @@
   }
 
   .cb-slideshow li:nth-child(6) span {
-      background-image: url("https://cdn.pixabay.com/photo/2015/06/07/23/48/football-801047_640.jpg");
+      background-image: url("img/action-1850887_1920.jpg");
       -webkit-animation-delay: 30s;
       -moz-animation-delay: 30s;
       -o-animation-delay: 30s;
@@ -223,7 +223,7 @@
   }
 
   .cb-slideshow li:nth-child(7) span {
-      background-image: url("https://usatftw.files.wordpress.com/2016/07/usatsi_9226786.jpg");
+      background-image: url("img/quarterback-558057_1920.jpg");
       -webkit-animation-delay: 40s;
       -moz-animation-delay: 40s;
       -o-animation-delay: 40s;
