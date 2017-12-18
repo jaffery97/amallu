@@ -1,0 +1,51 @@
+@media only screen and (max-width: 326px),
+only screen and (max-device-width: 326px),
+only screen and (max-width: 326px) {
+    
+    .a{
+        float: none;
+        font-size: 8px;
+     
+    }
+    
+     .apps {
+   
+        width: 200px;}
+    
+    .c{
+        
+        float: none;
+        font-size: 12px;
+          text-align: center;
+        
+    }
+    
+}
+
+
+
+
+@media only screen and (max-width: 767px),
+only screen and (max-device-width: 480px),
+only screen and (max-width: 767px) {
+    
+    
+      .a{
+        float: none;
+        font-size: 12px;
+          text-align: center;
+    }
+    
+    .apps {
+   
+        width: 200px;}
+    
+    .c{
+        
+        float: none;
+     
+         font-size: 12px;
+          text-align: center;
+    }
+    
+}
